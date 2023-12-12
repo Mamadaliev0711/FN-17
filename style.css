@@ -4,10 +4,11 @@
   display: flex;
 }
 body {
-  background-color: antiquewhite;
+  background-color: rgb(249, 245, 240);
 }
 .box {
     display: flex;
+    position: relative;
 }
 .box__text {
   color: var(--unnamed, #202020);
@@ -58,6 +59,5 @@ body {
   flex-shrink: 0;
   background: url(<path-to-image>), lightgray 50% / cover no-repeat;
   mix-blend-mode: multiply;
-    padding-left: 283px;
-    margin-right: 540px;
+ 
 }
