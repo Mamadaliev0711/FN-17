@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+body {
+    background-color: antiquewhite;
+}
+.box {
+}
+.box__text {
+}
+.box__text-1 {
+}
+.box__text-2 {
+}
+.box__text-3 {
+}
