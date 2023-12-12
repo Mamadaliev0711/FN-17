@@ -58,4 +58,6 @@ body {
   flex-shrink: 0;
   background: url(<path-to-image>), lightgray 50% / cover no-repeat;
   mix-blend-mode: multiply;
+    padding-left: 283px;
+    margin-right: 540px;
 }
